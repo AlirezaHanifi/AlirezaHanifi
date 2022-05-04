@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -47,5 +47,5 @@
 ### My GitHub Stats:  
   
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaHanifi&show_icons=true&theme=github_dark" alt="AlirezaHanifi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaHanifi&show_icons=true&theme=react" alt="AlirezaHanifi's GitHub stats"/>
 </div>
