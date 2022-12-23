@@ -11,9 +11,9 @@
   <a href="https://www.linkedin.com/in/alireza-hanifi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/AlirezaHanifi/My_CV/blob/master/AlirezaHanifi's%20English%20resume.pdf/">
+<!--   <a href="https://github.com/AlirezaHanifi/My_CV/blob/master/AlirezaHanifi's%20English%20resume.pdf/">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=github&logoColor=white" alt="Resume Badge"/>
-  </a>  
+  </a>   -->
   <a href="mailto:hanifi1375@yahoo.com">
     <img src="https://img.shields.io/badge/Yahoo-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Badge"/>
   </a>
